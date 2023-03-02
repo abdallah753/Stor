@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Titel",
+    "price": 10.99,
+    "imgUrl": "./imges/ben-griffiths-Bj6ENZDMSDY-unsplash.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Titel",
+    "price": 1199,
+    "imgUrl": "./imges/boitumelo-phetla-eJFJjU7yUtc-unsplash.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Titel",
+    "price": 1.05,
+    "imgUrl": "./imges/boitumelo-phetla-j9F3vQEW5CU-unsplash.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Titel",
+    "price": 14000,
+    "imgUrl": "./imges/jefferson-santos-9SoCnyQmkzI-unsplash.jpg"
+  }
+]
